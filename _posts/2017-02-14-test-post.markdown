@@ -1,0 +1,8 @@
+---
+title: Test post
+date: 2017-02-14 21:10:00 Z
+tags:
+- Test post
+---
+
+This is a test post
